@@ -1,0 +1,17 @@
+{
+  "currentVersion": "1.0",
+  "downloadUrl": "https://github.com/Berkwe/Valorant-Instalocker/releases/tag/v1.0",
+  "releaseNotes": {
+    "en": "Version 1.0 is now live. The app includes a refined update experience, richer news cards, and a more premium interface.",
+    "tr": "1.0 sürümü artık yayında. Uygulama, daha rafine bir güncelleme deneyimi, zenginleştirilmiş haber kartları ve daha premium bir arayüz sunuyor."
+  },
+  "versionTitle": {
+    "en": "1.0 Update",
+    "tr": "1.0 Güncelleme"
+  },
+  "versionBody": {
+    "en": "What changed: new premium update visuals, polished news cards, and a smoother experience across the app.",
+    "tr": "Neler değişti: yeni premium güncelleme görselleri, daha şık haber kartları ve uygulama genelinde daha akıcı bir deneyim."
+  },
+  "isMandatory": false
+}
