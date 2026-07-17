@@ -14,8 +14,7 @@
     "tr": "Neler değişti: yeni premium güncelleme görselleri, daha şık haber kartları ve uygulama genelinde daha akıcı bir deneyim."
   },
   "isMandatory": false,
-  },
   "ban": {
-    "status": "3",
+    "status": "3"
   }
 }
