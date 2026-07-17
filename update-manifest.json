@@ -13,7 +13,7 @@
     "en": "What changed: new premium update visuals, polished news cards, and a smoother experience across the app.",
     "tr": "Neler değişti: yeni premium güncelleme görselleri, daha şık haber kartları ve uygulama genelinde daha akıcı bir deneyim."
   },
-  "isMandatory": false
+  "isMandatory": false,
   "ban": {
     "status": "3"
   }
